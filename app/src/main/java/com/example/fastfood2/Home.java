@@ -55,6 +55,12 @@ public class Home extends AppCompatActivity {
                     return true;
                 }
 
+                if (id == R.id.helpother) {
+                    Intent intent = new Intent(Home.this, nbabc.class);
+                    startActivity(intent);
+                    drawerLayout.closeDrawers(); // Close the drawer after redirecting
+                    return true;
+                }
 
                 return false;
             }

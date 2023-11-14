@@ -61,6 +61,12 @@ public class Home extends AppCompatActivity {
                     drawerLayout.closeDrawers(); // Close the drawer after redirecting
                     return true;
                 }
+                if (id == R.id.contact_us) {
+                    Intent intent = new Intent(Home.this, ListDisipline.class);
+                    startActivity(intent);
+                    drawerLayout.closeDrawers(); // Close the drawer after redirecting
+                    return true;
+                }
 
                 return false;
             }

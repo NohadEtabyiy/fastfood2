@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+
+        android:icon="@drawable/icon_home"
+        android:iconTint="@color/white"
+
+        />
+
+    <item
+        android:id="@+id/Chef_Invetions"
+        android:title="Information Personnelle"
+        android:icon="@drawable/person"
+
+        />
+
+    <item
+        android:id="@+id/Add_Inventions"
+        android:icon="@drawable/add"
+        android:title="Emploi du temps" />
+
+        <item
+            android:id="@+id/Module"
+            android:icon="@drawable/book"
+            android:title="Les modules" />
+
+    <item
+        android:id="@+id/Privacy_Policy"
+        android:icon="@drawable/policy"
+        android:title="Le Règlement Intérieur" />
+
+    </group>
+
+    <group
+        android:id="@+id/menu_undertop"
+        android:checkableBehavior="single">
+        <item android:title="Communications avec Scolarité">
+            <menu>
+    <item
+        android:id="@+id/helpother"
+        android:title="Nombre d'absence"
+        android:icon="@drawable/add"
+
+        />
+
+    <item
+        android:id="@+id/contact_us"
+        android:icon="@drawable/contact"
+        android:title="Conseil de discipline" />
+
+    <item
+        android:id="@+id/rate_us"
+        android:icon="@drawable/rate"
+        android:title="Les notes" />
+
+            </menu>
+        </item>
+    </group>
+
+
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="single">
+        <item android:title="Other">
+            <menu>
+                <item
+                    android:id="@+id/setteing"
+                    android:icon="@drawable/setting"
+                    android:title="Setting" />
+
+                <item
+                    android:id="@+id/help"
+                    android:icon="@drawable/help1"
+                    android:title="Help" />
+            </menu>
+        </item>
+
+
+    </group>
+
+
+</menu>

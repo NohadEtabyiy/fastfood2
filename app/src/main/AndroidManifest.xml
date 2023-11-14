@@ -22,10 +22,6 @@
             android:name=".Home01Activity"
             android:exported="false" />
         <activity
-            android:name=".MainPersonnel"
-            android:exported="false"
-            android:label="les information Personnel" />
-        <activity
             android:name=".nbabc"
             android:exported="false" />
         <activity
@@ -38,14 +34,9 @@
             android:name=".listNote"
             android:exported="false"
             android:label="Les Notes" />
-        <activity
-            android:name=".List_Notes"
-            android:exported="false" />
+
         <activity
             android:name=".ListModule"
-            android:exported="false" />
-        <activity
-            android:name=".Liste_Modules"
             android:exported="false" />
         <activity
             android:name=".ListDisipline"

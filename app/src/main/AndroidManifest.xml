@@ -32,6 +32,10 @@
             android:name=".Liste_Modules"
             android:exported="false" />
         <activity
+            android:name=".ListDisipline"
+            android:exported="false"
+            android:label="Liste de Discipline"/>
+        <activity
             android:name=".Home"
             android:exported="true">
             <intent-filter>

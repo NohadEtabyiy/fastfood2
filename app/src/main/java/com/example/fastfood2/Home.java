@@ -40,6 +40,13 @@ public class Home extends AppCompatActivity {
                     return true;
                 }
 
+                if (id == R.id.Add_Inventions) {
+                    Intent intent = new Intent(Home.this, EmploiActivity.class);
+                    startActivity(intent);
+                    drawerLayout.closeDrawers();
+                    return true;
+                }
+
                 if (id == R.id.rate_us) {
                     // Redirect to listNote activity
                     Intent intent = new Intent(Home.this, listNote.class);

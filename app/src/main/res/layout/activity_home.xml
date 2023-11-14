@@ -29,14 +29,6 @@ tools:ignore="HardcodedText">
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-
-
-        <Button
-            android:layout_width="120px"
-            android:layout_height="120px"
-            android:id="@+id/Navigate"
-            android:text="Add"
-            />
     </LinearLayout>
 <!-- this the navigation view which draws and shows the navigation drawer -->
 <!-- include the menu created in the menu folder -->

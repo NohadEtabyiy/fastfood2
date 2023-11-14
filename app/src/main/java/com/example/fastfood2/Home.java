@@ -74,6 +74,12 @@ public class Home extends AppCompatActivity {
                     drawerLayout.closeDrawers(); // Close the drawer after redirecting
                     return true;
                 }
+                if (id == R.id.Home) {
+                    Intent intent = new Intent(Home.this, MainActivitykhh.class);
+                    startActivity(intent);
+                    drawerLayout.closeDrawers();
+                    return true;
+                }
 
                 return false;
             }

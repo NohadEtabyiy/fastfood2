@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.List;
@@ -39,10 +40,10 @@ public class NbAdapter extends ArrayAdapter<NbAbsence> {
 
 
 
-        TextView textViewDate = view.findViewById( R.id.date);
-        TextView textViewSalle = view.findViewById( R.id.salle);
-        TextView textViewTime = view.findViewById( R.id.time);
-        TextView textViewModule = view.findViewById( R.id.module);
+        TextView textViewDate = view.findViewById(R.id.date);
+        TextView textViewSalle = view.findViewById(R.id.salle);
+        TextView textViewTime = view.findViewById(R.id.time);
+        TextView textViewModule = view.findViewById(R.id.module);
 
 
 

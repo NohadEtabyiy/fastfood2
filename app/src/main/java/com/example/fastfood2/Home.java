@@ -46,6 +46,13 @@ public class Home extends AppCompatActivity {
                     drawerLayout.closeDrawers();
                     return true;
                 }
+                if (id == R.id.Privacy_Policy) {
+                    // Redirect to ListeModules activity
+                    Intent intent = new Intent(Home.this, ListReglement.class);
+                    startActivity(intent);
+                    drawerLayout.closeDrawers(); // Close the drawer after redirecting
+                    return true;
+                }
 
                 if (id == R.id.rate_us) {
                     // Redirect to listNote activity

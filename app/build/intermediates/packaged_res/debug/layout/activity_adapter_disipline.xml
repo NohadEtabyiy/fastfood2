@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/TextView1"
+      android:textSize="27sp"
+      android:text="Date "
+      android:layout_marginTop="6dp"
+      android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView2"
+        android:text="Observation"
+        android:textSize="27sp"
+        android:layout_marginTop="6dp"
+        android:layout_marginRight="10dp"
+        android:layout_column="1"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView3"
+        android:textSize="27sp"
+        android:text="Gerie"
+        android:layout_marginTop="6dp"
+        android:layout_marginRight="10dp"
+        android:layout_column="2"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView4"
+        android:textSize="27sp"
+        android:text="Conseil"
+        android:layout_marginTop="6dp"
+        android:textStyle="bold"/>
+</LinearLayout>

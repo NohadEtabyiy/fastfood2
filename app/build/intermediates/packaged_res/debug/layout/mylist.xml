@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="20dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="10dp">
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date :"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time :"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            /></LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="50dp">
+        <TextView
+            android:id="@+id/salle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Salle :"
+            android:textStyle="bold"
+            android:textSize="20dp"/>
+        <TextView
+            android:id="@+id/module"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Module :"
+            android:textStyle="bold"
+            android:textSize="20dp"
+
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>

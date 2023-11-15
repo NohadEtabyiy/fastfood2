@@ -1,0 +1,3 @@
+com.example.fastfood2.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

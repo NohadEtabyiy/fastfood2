@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_adapter_disipline.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_adapter_disipline.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\mylist.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\mylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_list_reglement.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_reglement.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\grid_item.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_emploi.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_emploi.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_list_disipline.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_disipline.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_adapter_note.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_adapter_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "com.example.fastfood2.app-mergeDebugResources-33:/layout/activity_home.xml",
+        "source": "com.example.fastfood2.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_home01.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_home01.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_list_adapter3.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_adapter3.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_list_note.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_list_module.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-mergeDebugResources-33:\\layout\\activity_nbabc.xml",
+        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_nbabc.xml"
+    }
+]

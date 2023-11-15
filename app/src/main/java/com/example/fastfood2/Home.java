@@ -39,6 +39,13 @@ public class Home extends AppCompatActivity {
                     drawerLayout.closeDrawers(); // Close the drawer after redirecting
                     return true;
                 }
+                if (id == R.id.Chef_Invetions) {
+                    // Redirect to ListModule activity
+                    Intent intent = new Intent(Home.this,MainPersonnel.class);
+                    startActivity(intent);
+                    drawerLayout.closeDrawers(); // Close the drawer after redirecting
+                    return true;
+                }
 
                 if (id == R.id.Add_Inventions) {
                     Intent intent = new Intent(Home.this, EmploiActivity.class);

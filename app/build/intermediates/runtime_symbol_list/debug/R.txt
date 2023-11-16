@@ -3067,6 +3067,7 @@ int drawable notify_panel_notification_icon_bg 0x7f0700f0
 int drawable ofppt 0x7f0700f1
 int drawable ofppt01 0x7f0700f2
 int drawable ofppt1 0x7f0700f3
+int drawable perso 0x7f070100
 int drawable person 0x7f0700f4
 int drawable pic_foad_res 0x7f0700f5
 int drawable policy 0x7f0700f6
@@ -3078,7 +3079,6 @@ int drawable swift 0x7f0700fb
 int drawable test_level_drawable 0x7f0700fc
 int drawable tooltip_frame_dark 0x7f0700fd
 int drawable tooltip_frame_light 0x7f0700fe
-int drawable use4 0x7f0700ff
 int id ALT 0x7f080000
 int id Add_Inventions 0x7f080001
 int id BOTTOM_END 0x7f080002

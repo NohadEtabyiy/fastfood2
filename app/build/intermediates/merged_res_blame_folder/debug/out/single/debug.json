@@ -60,8 +60,8 @@
         "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.fastfood2.app-merged_res-34:/mipmap-hdpi_ofppt01.png.flat",
-        "source": "com.example.fastfood2.app-main-36:/mipmap-hdpi/ofppt01.png"
+        "merged": "com.example.fastfood2.app-merged_res-34:/drawable_perso.png.flat",
+        "source": "com.example.fastfood2.app-main-36:/drawable/perso.png"
     },
     {
         "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_reglement.xml.flat",
@@ -194,6 +194,10 @@
     {
         "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-hdpi_ofppt01.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-hdpi\\ofppt01.png"
     },
     {
         "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_add.png.flat",

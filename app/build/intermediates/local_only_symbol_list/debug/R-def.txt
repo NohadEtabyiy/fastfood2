@@ -34,6 +34,7 @@ drawable loginperson
 drawable ofppt
 drawable ofppt01
 drawable ofppt1
+drawable perso
 drawable person
 drawable pic_foad_res
 drawable policy
@@ -42,7 +43,6 @@ drawable python
 drawable rate
 drawable setting
 drawable swift
-drawable use4
 id Add_Inventions
 id Chef_Invetions
 id Group

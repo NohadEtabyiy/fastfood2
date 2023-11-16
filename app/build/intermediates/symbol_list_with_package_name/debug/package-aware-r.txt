@@ -3068,6 +3068,7 @@ drawable notify_panel_notification_icon_bg
 drawable ofppt
 drawable ofppt01
 drawable ofppt1
+drawable perso
 drawable person
 drawable pic_foad_res
 drawable policy
@@ -3079,7 +3080,6 @@ drawable swift
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-drawable use4
 id ALT
 id Add_Inventions
 id BOTTOM_END

@@ -34,7 +34,6 @@ drawable loginperson
 drawable ofppt
 drawable ofppt01
 drawable ofppt1
-drawable ofpptt
 drawable perso
 drawable person
 drawable pic_foad_res

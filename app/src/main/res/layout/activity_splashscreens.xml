@@ -20,7 +20,7 @@
             android:layout_marginRight="200dp"
             android:layout_marginBottom="200dp"
             android:foregroundGravity="center"
-            android:src="@drawable/ofpptt" />
+            android:src="@drawable/ofppt01" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

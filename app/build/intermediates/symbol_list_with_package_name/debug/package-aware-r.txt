@@ -3068,7 +3068,6 @@ drawable notify_panel_notification_icon_bg
 drawable ofppt
 drawable ofppt01
 drawable ofppt1
-drawable ofpptt
 drawable perso
 drawable person
 drawable pic_foad_res

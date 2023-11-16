@@ -3068,6 +3068,7 @@ drawable notify_panel_notification_icon_bg
 drawable ofppt
 drawable ofppt01
 drawable ofppt1
+drawable ofpptt
 drawable perso
 drawable person
 drawable pic_foad_res
@@ -3845,6 +3846,7 @@ menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap ofppt01
+mipmap ofpptt01
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description

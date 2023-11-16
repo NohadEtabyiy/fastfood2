@@ -34,6 +34,7 @@ drawable loginperson
 drawable ofppt
 drawable ofppt01
 drawable ofppt1
+drawable ofpptt
 drawable perso
 drawable person
 drawable pic_foad_res
@@ -120,6 +121,7 @@ menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap ofppt01
+mipmap ofpptt01
 string app_name
 string nav_close
 string nav_open

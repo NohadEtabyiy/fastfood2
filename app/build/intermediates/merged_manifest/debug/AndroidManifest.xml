@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="24"
-        android:targetSdkVersion="33" />
+        android:targetSdkVersion="34" />
 
     <permission
         android:name="com.example.fastfood2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -21,7 +21,7 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ofppt01"
+        android:icon="@mipmap/ofpptt01"
         android:label="ISTAM"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"

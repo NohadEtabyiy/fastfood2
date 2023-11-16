@@ -16,7 +16,7 @@ public class MainPersonnel extends AppCompatActivity {
 
         setContentView(R.layout.activity_main_personnel);
 
-        Personne personne = new Personne("Unkonnu", "Unkonnu", R.drawable.perso, "1","10/08/2002","DEVOAM","201");
+        Personne personne = new Personne("Unkonnu", "Unkonnu", R.drawable.perso, "1","01/01/2001","DEVOAM","201");
 
         ImageView gridImage = findViewById(R.id.grid_image);
 

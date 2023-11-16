@@ -4,7 +4,6 @@ package com.example.fastfood2.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -21,18 +20,14 @@ public final class ActivityHomeBinding implements ViewBinding {
   private final DrawerLayout rootView;
 
   @NonNull
-  public final ImageView imageView2;
-
-  @NonNull
   public final DrawerLayout myDrawerLayout;
 
   @NonNull
   public final NavigationView navigationView;
 
-  private ActivityHomeBinding(@NonNull DrawerLayout rootView, @NonNull ImageView imageView2,
-      @NonNull DrawerLayout myDrawerLayout, @NonNull NavigationView navigationView) {
+  private ActivityHomeBinding(@NonNull DrawerLayout rootView, @NonNull DrawerLayout myDrawerLayout,
+      @NonNull NavigationView navigationView) {
     this.rootView = rootView;
-    this.imageView2 = imageView2;
     this.myDrawerLayout = myDrawerLayout;
     this.navigationView = navigationView;
   }
@@ -64,12 +59,6 @@ public final class ActivityHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.imageView2;
-      ImageView imageView2 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView2 == null) {
-        break missingId;
-      }
-
       DrawerLayout myDrawerLayout = (DrawerLayout) rootView;
 
       id = R.id.navigation_view;
@@ -78,8 +67,7 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityHomeBinding((DrawerLayout) rootView, imageView2, myDrawerLayout,
-          navigationView);
+      return new ActivityHomeBinding((DrawerLayout) rootView, myDrawerLayout, navigationView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

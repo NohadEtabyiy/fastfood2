@@ -9,188 +9,202 @@
 9        android:targetSdkVersion="33" />
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] C:\Users\nohaa\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 12        android:name="com.example.fastfood2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] C:\Users\nohaa\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] C:\Users\nohaa\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.example.fastfood2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] C:\Users\nohaa\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] C:\Users\nohaa\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:5:5-58:19
+17-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:5:5-77:19
 18        android:allowBackup="true"
-18-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:6:9-35
+18-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] C:\Users\nohaa\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:7:9-65
+20-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:8:9-54
-24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:9:9-43
+23-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:8:9-54
+24        android:icon="@mipmap/ofppt01"
+24-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:9:9-39
 25        android:label="ISTAM"
-25-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:10:9-30
+25-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:10:9-30
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:11:9-54
+26-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:12:9-35
+27-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.Fastfood2" >
-29-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:13:9-47
+29-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:13:9-47
 30        <activity
-30-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:15:9-17:40
-31            android:name="com.example.fastfood2.listAdapter3"
-31-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:16:13-41
-32            android:exported="false" />
-32-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:17:13-37
-33        <activity
-33-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:18:9-20:40
-34            android:name="com.example.fastfood2.ListReglement"
-34-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:19:13-42
-35            android:exported="false" />
-35-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:20:13-37
-36        <activity
-36-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:21:9-23:40
-37            android:name="com.example.fastfood2.Home01Activity"
-37-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:22:13-43
-38            android:exported="false" />
-38-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:23:13-37
+30-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:16:9-23:20
+31            android:name="com.example.fastfood2.SplashscreensActivity"
+31-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:17:13-50
+32            android:exported="true" >
+32-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:18:13-36
+33            <intent-filter>
+33-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:19:13-22:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:20:17-69
+34-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:20:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:21:17-77
+36-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:21:27-74
+37            </intent-filter>
+38        </activity>
 39        <activity
-39-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:24:9-26:40
-40            android:name="com.example.fastfood2.nbabc"
-40-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:25:13-34
-41            android:exported="false" />
-41-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:26:13-37
-42        <activity
-42-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:27:9-29:40
-43            android:name="com.example.fastfood2.EmploiActivity"
-43-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:28:13-43
-44            android:exported="false" />
-44-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:29:13-37
-45        <activity
-45-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:30:9-32:40
-46            android:name="com.example.fastfood2.AdapterNote"
-46-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:31:13-40
-47            android:exported="false" />
-47-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:32:13-37
-48        <activity
-48-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:33:9-36:41
-49            android:name="com.example.fastfood2.listNote"
-49-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:34:13-37
-50            android:exported="false"
-50-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:35:13-37
-51            android:label="Les Notes" />
-51-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:36:13-38
+39-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:25:9-28:57
+40            android:name="com.example.fastfood2.MainPersonnel"
+40-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:26:13-42
+41            android:exported="false"
+41-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:27:13-37
+42            android:label="les information Personnel" />
+42-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:28:13-54
+43        <activity
+43-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:30:9-32:40
+44            android:name="com.example.fastfood2.Home"
+44-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:31:13-33
+45            android:exported="false" />
+45-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:32:13-37
+46        <activity
+46-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:34:9-36:40
+47            android:name="com.example.fastfood2.listAdapter3"
+47-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:35:13-41
+48            android:exported="false" />
+48-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:36:13-37
+49        <activity
+49-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:38:9-40:40
+50            android:name="com.example.fastfood2.ListReglement"
+50-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:39:13-42
+51            android:exported="false" />
+51-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:40:13-37
 52        <activity
-52-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:38:9-40:40
-53            android:name="com.example.fastfood2.ListModule"
-53-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:39:13-39
+52-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:42:9-44:40
+53            android:name="com.example.fastfood2.Home01Activity"
+53-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:43:13-43
 54            android:exported="false" />
-54-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:40:13-37
+54-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:44:13-37
 55        <activity
-55-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:41:9-44:51
-56            android:name="com.example.fastfood2.ListDisipline"
-56-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:42:13-42
-57            android:exported="false"
-57-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:43:13-37
-58            android:label="Liste de Discipline" />
-58-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:44:13-48
-59        <activity
-59-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:45:9-47:40
-60            android:name="com.example.fastfood2.Home"
-60-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:46:13-33
-61            android:exported="false" />
-61-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:47:13-37
-62        <activity
-62-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:48:9-57:20
-63            android:name="com.example.fastfood2.login"
-63-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:49:13-34
-64            android:exported="true"
-64-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:50:13-36
-65            android:label="LOGIN" >
-65-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:51:13-34
-66            <intent-filter>
-66-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:52:13-56:29
-67                <action android:name="android.intent.action.MAIN" />
-67-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:53:17-69
-67-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:53:25-66
-68
-69                <category android:name="android.intent.category.LAUNCHER" />
-69-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:55:17-77
-69-->C:\Users\nohaa\AndroidStudioProjects\nohad\app\src\main\AndroidManifest.xml:55:27-74
-70            </intent-filter>
-71        </activity>
-72
-73        <provider
-73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-74            android:name="androidx.startup.InitializationProvider"
-74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-75            android:authorities="com.example.fastfood2.androidx-startup"
-75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-76            android:exported="false" >
-76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-77            <meta-data
-77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-79                android:value="androidx.startup" />
-79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nohaa\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-80            <meta-data
-80-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\nohaa\.gradle\caches\transforms-3\256f8c565a10b3fc35e8921b8ae819ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-81-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\nohaa\.gradle\caches\transforms-3\256f8c565a10b3fc35e8921b8ae819ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-82                android:value="androidx.startup" />
-82-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\nohaa\.gradle\caches\transforms-3\256f8c565a10b3fc35e8921b8ae819ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-83            <meta-data
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-84                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-85                android:value="androidx.startup" />
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-86        </provider>
-87
-88        <receiver
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-89            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-90            android:directBootAware="false"
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-91            android:enabled="true"
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-92            android:exported="true"
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-93            android:permission="android.permission.DUMP" >
-93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-94            <intent-filter>
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-95                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-96            </intent-filter>
-97            <intent-filter>
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-98                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-99            </intent-filter>
-100            <intent-filter>
-100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-101                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-102            </intent-filter>
-103            <intent-filter>
-103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-104                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nohaa\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-105            </intent-filter>
-106        </receiver>
-107    </application>
-108
-109</manifest>
+55-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:46:9-48:40
+56            android:name="com.example.fastfood2.nbabc"
+56-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:47:13-34
+57            android:exported="false" />
+57-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:48:13-37
+58        <activity
+58-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:50:9-52:40
+59            android:name="com.example.fastfood2.EmploiActivity"
+59-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:51:13-43
+60            android:exported="false" />
+60-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:52:13-37
+61        <activity
+61-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:54:9-56:40
+62            android:name="com.example.fastfood2.AdapterNote"
+62-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:55:13-40
+63            android:exported="false" />
+63-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:56:13-37
+64        <activity
+64-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:58:9-61:41
+65            android:name="com.example.fastfood2.listNote"
+65-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:59:13-37
+66            android:exported="false"
+66-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:60:13-37
+67            android:label="Les Notes" />
+67-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:61:13-38
+68        <activity
+68-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:63:9-65:40
+69            android:name="com.example.fastfood2.ListModule"
+69-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:64:13-39
+70            android:exported="false" />
+70-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:65:13-37
+71        <activity
+71-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:67:9-70:51
+72            android:name="com.example.fastfood2.ListDisipline"
+72-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:68:13-42
+73            android:exported="false"
+73-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:69:13-37
+74            android:label="Liste de Discipline" />
+74-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:70:13-48
+75        <activity
+75-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:72:9-75:37
+76            android:name="com.example.fastfood2.login"
+76-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:73:13-34
+77            android:exported="false"
+77-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:74:13-37
+78            android:label="LOGIN" />
+78-->C:\Users\Mehdi Aouragh\AndroidStudioProjects\fastfood2\app\src\main\AndroidManifest.xml:75:13-34
+79
+80        <provider
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+82            android:authorities="com.example.fastfood2.androidx-startup"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+83            android:exported="false" >
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+84            <meta-data
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+86                android:value="androidx.startup" />
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\256f8c565a10b3fc35e8921b8ae819ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+88-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\256f8c565a10b3fc35e8921b8ae819ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+89                android:value="androidx.startup" />
+89-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\256f8c565a10b3fc35e8921b8ae819ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+90            <meta-data
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+92                android:value="androidx.startup" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+93        </provider>
+94
+95        <receiver
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+96            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+97            android:directBootAware="false"
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+98            android:enabled="true"
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+99            android:exported="true"
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+100            android:permission="android.permission.DUMP" >
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+102                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+105                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+106            </intent-filter>
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+108                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+111                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mehdi Aouragh\.gradle\caches\transforms-3\acd09e5d0cd94e2c3bbe30c0da31ed63\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+112            </intent-filter>
+113        </receiver>
+114    </application>
+115
+116</manifest>

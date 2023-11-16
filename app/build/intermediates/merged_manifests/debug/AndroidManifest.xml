@@ -21,12 +21,28 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ofppt01"
         android:label="ISTAM"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Fastfood2" >
+        <activity
+            android:name="com.example.fastfood2.SplashscreensActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.fastfood2.MainPersonnel"
+            android:exported="false"
+            android:label="les information Personnel" />
+        <activity
+            android:name="com.example.fastfood2.Home"
+            android:exported="false" />
         <activity
             android:name="com.example.fastfood2.listAdapter3"
             android:exported="false" />
@@ -57,18 +73,9 @@
             android:exported="false"
             android:label="Liste de Discipline" />
         <activity
-            android:name="com.example.fastfood2.Home"
-            android:exported="false" />
-        <activity
             android:name="com.example.fastfood2.login"
-            android:exported="true"
-            android:label="LOGIN" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="false"
+            android:label="LOGIN" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

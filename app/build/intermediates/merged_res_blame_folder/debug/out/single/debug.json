@@ -1,262 +1,274 @@
 [
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_et_input.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\et_input.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\nav_header.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_person.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\person.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_python.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\python.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_lock.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\lock.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_mylist.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\mylist.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_java.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\java.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_istaam.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\istaam.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_disipline.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_disipline.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_nbabc.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_nbabc.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\setting.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_home01.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_home01.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_adapter3.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_adapter3.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_chef2.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\chef2.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_add.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\add.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_nbabc.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_nbabc.xml"
+        "merged": "com.example.fastfood2.app-merged_res-34:/mipmap-hdpi_ofppt01.png.flat",
+        "source": "com.example.fastfood2.app-main-36:/mipmap-hdpi/ofppt01.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_grad.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\grad.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_reglement.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_reglement.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_note.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_note.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_note.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_note.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_module.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_module.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_dart.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\dart.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_dart.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\dart.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_main2.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_main2.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_emploi.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_emploi.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_btn_lg.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\btn_lg.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_module.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_module.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_loginperson.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\loginperson.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_grad.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\grad.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_lock.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\lock.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_contact.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\contact.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_disipline.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_disipline.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_adapter3.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_adapter3.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_nav_header.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\nav_header.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_btn_lg.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\btn_lg.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_policy.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\policy.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_kotlin.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\kotlin.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_emploi.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_emploi.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_chef1.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\chef1.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_mylist.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\mylist.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_list_reglement.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_list_reglement.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_grid_item.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\grid_item.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_istaam.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\istaam.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_splashscreens.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_splashscreens.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_pic_foad_res.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\pic_foad_res.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_java.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\java.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ofppt01.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ofppt01.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_chef2.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\chef2.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_help1.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\help1.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_projet.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\projet.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_android.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\android.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_home01.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_home01.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_help1.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\help1.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_contact.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\contact.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_loginperson.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\loginperson.xml"
     },
     {
-        "merged": "com.example.fastfood2.app-merged_res-34:/layout_activity_home.xml.flat",
-        "source": "com.example.fastfood2.app-main-36:/layout/activity_home.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_help.gif.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\help.gif"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\menu\\menu.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_kotlin.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\kotlin.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_pic_foad_res.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\pic_foad_res.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_rate.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\rate.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_grid_item.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\grid_item.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_use4.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\use4.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_swift.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\swift.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_setting.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\setting.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_policy.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\policy.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\menu_menu.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\menu\\menu.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ofppt.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ofppt.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_add.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\add.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_projet.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\projet.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_icon_home.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\icon_home.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_icon_home.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\icon_home.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ofppt.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ofppt.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ofppt1.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ofppt1.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_rate.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\rate.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_chef1.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\chef1.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_adapter_note.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_adapter_note.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ofppt01.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ofppt01.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_et_input.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\et_input.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_adapter_note.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_adapter_note.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_python.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\python.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_swift.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\swift.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_chef.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\chef.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_book.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\book.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_book.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\book.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_adapter_disipline.xml.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_adapter_disipline.xml"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_main_personnel.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_main_personnel.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\layout_activity_adapter_disipline.xml.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\layout\\activity_adapter_disipline.xml"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_ofppt1.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\ofppt1.png"
     },
     {
-        "merged": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_android.png.flat",
-        "source": "C:\\Users\\nohaa\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\android.png"
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_person.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_chef.png.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\chef.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-merged_res-34:\\drawable_help.gif.flat",
+        "source": "C:\\Users\\Mehdi Aouragh\\.gradle\\daemon\\8.0\\com.example.fastfood2.app-main-36:\\drawable\\help.gif"
     }
 ]

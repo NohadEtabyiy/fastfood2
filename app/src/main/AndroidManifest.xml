@@ -12,56 +12,68 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Fastfood2"
         tools:targetApi="31">
+
+        <activity
+            android:name=".SplashscreensActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <activity
             android:name=".MainPersonnel"
             android:exported="false"
             android:label="les information Personnel" />
+
         <activity
             android:name=".Home"
             android:exported="false" />
+
         <activity
             android:name=".listAdapter3"
             android:exported="false" />
+
         <activity
             android:name=".ListReglement"
             android:exported="false" />
+
         <activity
             android:name=".Home01Activity"
             android:exported="false" />
+
         <activity
             android:name=".nbabc"
             android:exported="false" />
+
         <activity
             android:name=".EmploiActivity"
             android:exported="false" />
+
         <activity
             android:name=".AdapterNote"
             android:exported="false" />
+
         <activity
             android:name=".listNote"
             android:exported="false"
             android:label="Les Notes" />
+
         <activity
             android:name=".ListModule"
             android:exported="false" />
+
         <activity
             android:name=".ListDisipline"
             android:exported="false"
             android:label="Liste de Discipline" />
-        <activity
-            android:name=".Home"
-            android:exported="false"
-            tools:ignore="DuplicateActivity" />
+
         <activity
             android:name=".login"
-            android:exported="true"
-            android:label="LOGIN">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            android:exported="false"
+            android:label="LOGIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>
